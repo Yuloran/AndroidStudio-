@@ -1,0 +1,54 @@
+<keymap version="1" name="EclipseEx" parent="Eclipse">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="EditorDuplicateLines" />
+  <action id="EditorLookupDown" />
+  <action id="EditorScrollDown" />
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="ShowContent" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+</keymap>
