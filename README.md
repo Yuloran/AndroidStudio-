@@ -1,2 +1,2 @@
-# AndroidStudio-
+# AndroidStudio配置文件
 个人使用的Eclipse Keymap、Java Code Style等备份
